@@ -1,5 +1,5 @@
 #IN THE NAME OF GOD
-#This progect of mogtamaFane of MR Hajavi
+#This progect of mogtamaFane for MR Hajavi
 
 import random
 import re
