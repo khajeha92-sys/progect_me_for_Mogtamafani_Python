@@ -1,0 +1,40 @@
+{
+  "capitals": [
+    "تهران",
+    "اصفهان"
+  ],
+  "ancient_cities": [
+    "تهران",
+    "اصفهان",
+    "شیراز",
+    "تبریز",
+    "مشهد"
+  ],
+  "population_ranking": [
+    {
+      "rank": 1,
+      "name": "تهران",
+      "population": 8693706
+    },
+    {
+      "rank": 2,
+      "name": "مشهد",
+      "population": 3001184
+    },
+    {
+      "rank": 3,
+      "name": "اصفهان",
+      "population": 1961260
+    },
+    {
+      "rank": 4,
+      "name": "تبریز",
+      "population": 1773033
+    },
+    {
+      "rank": 5,
+      "name": "شیراز",
+      "population": 1565572
+    }
+  ]
+}
